@@ -1,4 +1,4 @@
-MR edit: Google recently released a research framework for fast prototyping of reinforcement learning algorithms called "Dopamine". They say that it aims to fill the need for a small, easily grokked codebase in which users can freely experiment with wild ideas (speculative research). I stumbled upon it while the Move 37 course, studying about Reinforcement Learning and Markovian Mathematics.  
+Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research. Google recently released a research framework for fast prototyping of reinforcement learning algorithms called "Dopamine". They say that it aims to fill the need for a small, easily grokked codebase in which users can freely experiment with wild ideas (speculative research). I stumbled upon it while the Move 37 course, studying about Reinforcement Learning and Markovian Mathematics. 
 
 # Dopamine
 
